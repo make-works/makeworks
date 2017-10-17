@@ -11,7 +11,7 @@ Open-access database of local manufacturing, so that both creatives and consumer
 We're hoping that by opening up our API and asking people to contribute, others might create more experiments e.g http://extension.make.works/
 
 ## How to get involved
-* Take a look at the CONTRIBUTING.md for details on how to participate.  
+* We'd love to have your input! Take a look at the CONTRIBUTING.md for details on how to participate.  
 * OR! :calendar: Join our session about [Alternative Manufacturing Futures](https://github.com/MozillaFoundation/mozfest-program-2017/issues/440) at [Mozilla Festival](https://mozillafestival.org/), 27-29 October 2018, Ravensbourne College, London. 
 
 ## License
