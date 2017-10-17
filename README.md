@@ -8,7 +8,7 @@ Open-access database of local manufacturing, so that both creatives and consumer
 * e/g finding new processes to be used for making artworks or design objects (experimentation, craft, art fabrication)
 * e/g commissioning local businesses to make small scale runs of products
 
-We're hoping that by opening up our API and asking people to contribute, that others might create more experiments e.g http://extension.make.works/
+We're hoping that by opening up our API and asking people to contribute, others might create more experiments e.g http://extension.make.works/
 
 ## How to get involved
 * Take a look at the CONTRIBUTING.md for details on how to participate.  
