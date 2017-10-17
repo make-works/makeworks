@@ -1,4 +1,4 @@
-## Make Works, hello! :wrench: :earth_americas: :computer: 
+## Make Works, hello! :wrench::earth_americas: :computer: 
 Open-access database of local manufacturing, so that both creatives and consumers can take an active role in where and how ‘things’ can be made or repaired.
 
 * e/g mapping the places and people you need to make or repair : makerspaces, tool libraries, workshops, factories, manufacturers, tradespeople, machine shops, material suppliers
