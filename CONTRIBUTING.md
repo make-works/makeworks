@@ -3,7 +3,9 @@
 Hello!
 Thank you for your interest in contributing to Make Works 🎉!
 
-Make Works is an open-access database of manufacturing, so that both creatives and consumers can take an active role in where and how ‘things’ can be made or repaired in their local area. Read more about the project and the organisation [here](https://make.works/about) 
+Make Works is an open-access database of manufacturing, so that both creatives and consumers can take an active role in where and how ‘things’ can be made or repaired in their local area. 
+
+Read more about the project and the organisation [here](https://make.works/about) 
 
 This is a set of guidelines for how you can get involved. These are guidelines, not rules and the guide is meant to make it easy for you to start working with us. 
 
