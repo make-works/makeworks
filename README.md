@@ -16,7 +16,7 @@ We're hoping that by opening up our API and asking people to contribute, others 
 
 ## License
 * This is a content-led project: database, film, photography
-* Licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+* Licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Acknowledgments :clap:
 * [Martin Clark](http://aniseed.co/), [Jamie Sterling](https://jamiesterling.co.uk/), [Lizzie Malcolm](https://rectangle.design/), [Dan Powers](https://rectangle.design/)
