@@ -12,11 +12,11 @@ This is a set of guidelines for how you can get involved. These are guidelines, 
 ## Ways to Contribute:
 
 * Adding data to the [Make Works Extension](http://extension.make.works/)
-* Sharing or Using our Content with Creative Commons
-* Experimenting with our API
-* Submitting stories of things you’ve made through the platform (‘Made’ Works)
+* Experimenting with our [API](https://make.works/api)
 * Starting your own [Make Works Region](https://make.works/start-a-region)
+* Sharing or Using our Content with [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
 * [Suggesting a Factory](https://make.works/suggest-a-factory) for us to visit
+* Submitting stories of things you’ve made through the platform (‘Made’ Works)
 * Writing Guides and Resources
 * Becoming a Patron [on Patreon](https://www.patreon.com/makeworks)
 * Running an event
